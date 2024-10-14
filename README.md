@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Barekegn Asefa</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
-<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
+<p align="center" width = "300px"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
  
 
 - 🔭 I’m currently working on **amazon clone, apple clone, evangadi forum**
